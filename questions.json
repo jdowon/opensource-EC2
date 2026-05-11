@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "question": "Streamlit은 어떤 프로그래밍 언어를 기반으로 구축된 오픈 소스 프레임워크인가요?",
+    "options": ["C++", "Java", "Python", "JavaScript"],
+    "answer": "Python"
+  },
+  {
+    "id": 2,
+    "question": "Streamlit은 주로 어떤 직군의 사람들이 데이터 애플리케이션을 빠르게 만들 수 있도록 설계되었나요?",
+    "options": ["프론트엔드/백엔드 웹 개발자", "데이터 과학자와 ML 엔지니어", "모바일 iOS/Android 앱 개발자", "UI/UX 디자이너"],
+    "answer": "데이터 과학자와 ML 엔지니어"
+  },
+  {
+    "id": 3,
+    "question": "다음 중 Streamlit의 특징이 아닌 것은 무엇인가요?",
+    "options": ["순수 파이썬만으로 웹 앱 개발 가능", "빠른 프로토타이핑", "실시간 리로딩 (Hot-reloading) 지원", "HTML과 CSS 코드를 필수로 작성해야 함"],
+    "answer": "HTML과 CSS 코드를 필수로 작성해야 함"
+  }
+]
